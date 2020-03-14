@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5900691-9a9f-4546-a8b4-c02adb684d15" name="Default Changelist" comment="" />
+    <list default="true" id="d5900691-9a9f-4546-a8b4-c02adb684d15" name="Default Changelist" comment="added scraper code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,30 +57,60 @@
       <option name="project" value="LOCAL" />
       <updated>1584190572713</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added selenium code">
+      <created>1584190975338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584190975338</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added selenium code">
+      <created>1584191008158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584191008158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="added scraper code" />
-    <option name="LAST_COMMIT_MESSAGE" value="added scraper code" />
+    <MESSAGE value="added selenium code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added selenium code" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="428" y="7" key="CommitChangelistDialog2" timestamp="1584190975310">
+    <state x="428" y="7" key="CommitChangelistDialog2" timestamp="1584224449122">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="428" y="7" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1584190975310" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584190119707">
+    <state x="428" y="7" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1584224449122" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584224417888">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1584190119707" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1584224417888" />
     <state x="310" y="89" key="SettingsEditor" timestamp="1584190165814">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="310" y="89" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1584190165814" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1584190729380">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1584224488727">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1584190729380" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1584224488727" />
     <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584190264878">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
