@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5900691-9a9f-4546-a8b4-c02adb684d15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1Z7UyUHM1cylMJVqdchUWLkbBUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FB Test" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5900691-9a9f-4546-a8b4-c02adb684d15" name="Default Changelist" comment="" />
+      <created>1584189880746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584189880746</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added scraper code">
+      <created>1584190253230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584190253230</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added scraper code">
+      <created>1584190572713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584190572713</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added scraper code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added scraper code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="7" key="CommitChangelistDialog2" timestamp="1584190975310">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="428" y="7" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1584190975310" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584190119707">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1584190119707" />
+    <state x="310" y="89" key="SettingsEditor" timestamp="1584190165814">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="310" y="89" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1584190165814" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1584190729380">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1584190729380" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584190264878">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.826@0.0.1536.826" timestamp="1584190264878" />
+  </component>
+</project>
